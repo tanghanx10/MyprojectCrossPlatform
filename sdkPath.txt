@@ -1,0 +1,15 @@
+SDKPath
+
+C:\Users\Admin\AppData\Local\Android\Sdk
+
+
+
+การกำหนด path ใน andriod 
+
+Android Home ใน System Environment
+
+C:\Users\Admin\AppData\Local\Android\Sdk
+
+C:\ProgramData\Oracle\Java\javapath;%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\PuTTY\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Users\Admin\AppData\Local\Android\Sdk\tools;C:\Users\Admin\AppData\Local\Android\Sdk\platform-tools
+
+
